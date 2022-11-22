@@ -1,0 +1,96 @@
+@import url(Font.css);
+@import url(Header2.css);
+@import url(Footer.css);
+.bgimg {
+    width: 100%;
+}
+
+.contactushead {
+    color: rgb(0, 0, 0);
+    font-size: 157px;
+    font-family: 'Lato', sans-serif;
+    margin-top: -470px;
+    margin-left: 560px;
+    color: white;
+}
+
+.contactusdes {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    margin-left: 650px;
+    color: white;
+}
+
+.Messege {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 666px;
+    height: 396px;
+    background-color: #EEEEEE;
+    padding-left: 20px;
+    margin-left: 180px;
+}
+
+.name {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 318px;
+    height: 65px;
+    background-color: #EEEEEE;
+    margin-left: 180px;
+    padding-left: 20px;
+}
+
+.email {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 318px;
+    height: 65px;
+    background-color: #EEEEEE;
+    margin-left: 5px;
+    padding-left: 20px;
+}
+
+.subject {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 666px;
+    height: 65px;
+    background-color: #EEEEEE;
+    margin-left: 180px;
+    padding-left: 20px;
+}
+
+.send {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 318px;
+    height: 79px;
+    background-color: #FF4A52;
+    color: white;
+    cursor: pointer;
+    margin-left: 180px;
+}
+
+.bttntxt {
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.contactusdes1 {
+    color: black;
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    margin-left: 650px;
+}
+
+.cudes {
+    margin-left: 320px;
+    margin-top: -700px;
+}

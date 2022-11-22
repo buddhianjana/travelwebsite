@@ -1,0 +1,313 @@
+    @import url(Font.css);
+    @import url(Header2.css);
+    @import url(Newsletter.css);
+    @import url(Footer.css);
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+    .vidbg {
+        width: 100%;
+    }
+    
+    .imgtxt {
+        position: absolute;
+        margin-left: 395px;
+        color: white;
+        font-family: 'Lato', sans-serif;
+        margin-top: -630px;
+    }
+    
+    .line1 {
+        font-size: 68px;
+        font-weight: lighter;
+    }
+    
+    .line2 {
+        font-size: 119px;
+        font-weight: 1000;
+    }
+    
+    .exbttn {
+        border: 0;
+        outline: 0;
+        width: 318px;
+        height: 53px;
+        border-radius: 14px;
+        background-color: #FFBC03;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+    
+    .extxt {
+        color: black;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 600;
+    }
+    
+    .exbttn:hover {
+        transform: scale(1.1);
+    }
+    
+    .bttn {
+        margin-top: 90px;
+    }
+    
+    .placescol {
+        margin-top: -110px;
+    }
+    
+    .totimg {
+        margin-top: 250px;
+        margin-left: 396px;
+    }
+    
+    .tothead {
+        margin-top: -100px;
+        margin-left: 426px;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 600;
+    }
+    
+    .totdes {
+        margin-left: 426px;
+        font-size: 13px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .Sigiriyaimg {
+        margin-left: 799px;
+        margin-top: -306px;
+    }
+    
+    .Sigiriyahead {
+        margin-left: 825px;
+        margin-top: -100px;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 600;
+    }
+    
+    .Sigiriyades {
+        margin-left: 825px;
+        margin-top: -1px;
+        font-size: 13px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .nrbimg {
+        margin-left: 1202px;
+        margin-top: -310px;
+    }
+    
+    .nrbhead {
+        margin-left: 1230px;
+        margin-top: -95px;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 600;
+    }
+    
+    .nrbdes {
+        margin-left: 1230px;
+        margin-top: -1px;
+        font-size: 13px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .yalaimg {
+        margin-top: 100px;
+        margin-left: 396px;
+    }
+    
+    .yalahead {
+        margin-top: -100px;
+        margin-left: 426px;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 600;
+    }
+    
+    .yalades {
+        margin-left: 426px;
+        font-size: 13px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .gfimg {
+        margin-left: 799px;
+        margin-top: -306px;
+    }
+    
+    .gfhead {
+        margin-left: 825px;
+        margin-top: -100px;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 600;
+    }
+    
+    .gfdes {
+        margin-left: 825px;
+        margin-top: -1px;
+        font-size: 13px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .jfimg {
+        margin-left: 1202px;
+        margin-top: -310px;
+    }
+    
+    .jfhead {
+        margin-left: 1230px;
+        margin-top: -95px;
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 600;
+    }
+    
+    .jfdes {
+        margin-left: 1230px;
+        margin-top: -1px;
+        font-size: 13px;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .sm {
+        outline: 0;
+        border: 0;
+        width: 262px;
+        height: 68px;
+        background-color: #FF4A52;
+        border-radius: 12px;
+    }
+    
+    .smtxt {
+        font-size: 25px;
+        font-family: 'Lato', sans-serif;
+        color: white;
+        cursor: pointer;
+    }
+    
+    .smbttn {
+        margin-top: 100px;
+        margin-left: 840px;
+    }
+    
+    .Ahover :hover {
+        color: red;
+    }
+    
+    .pphead {
+        margin-top: 300px;
+        text-align: center;
+        font-size: 51px;
+        font-family: 'Lato', sans-serif;
+        font-weight: bold;
+    }
+    
+    .text {
+        color: #ffffff;
+        font-size: 80px;
+        padding: 8px 12px;
+        position: absolute;
+        margin-bottom: 400px;
+        width: 100%;
+        text-align: center;
+        font-family: 'Style Script', cursive;
+    }
+    /*partnerships*/
+    
+    .bgbox {
+        width: 100%;
+        height: 408px;
+        background-color: rgb(238, 237, 237);
+    }
+    
+    .ptnrhead {
+        font-size: 51px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 500;
+        text-align: center;
+    }
+    
+    .partnerlogo {
+        margin-left: 310px;
+        margin-top: 50px;
+    }
+    
+    .earthimg {
+        margin-left: 350px;
+    }
+    
+    .hotelimg {
+        margin-left: 360px;
+    }
+    
+    .trainimg {
+        margin-left: 450px;
+    }
+    
+    .cj {
+        font-family: 'Lato', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        margin-left: 380px;
+        margin-top: 20px;
+    }
+    
+    .lh {
+        font-family: 'Lato', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        margin-left: 869px;
+        margin-top: -32px;
+    }
+    
+    .tg {
+        font-family: 'Lato', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        margin-left: 1329px;
+        margin-top: -32px;
+    }
+    
+    .ph1 {
+        font-family: 'Lato', sans-serif;
+        font-size: 18px;
+        text-align: center;
+        margin-left: -910px;
+    }
+    
+    .ph2 {
+        font-family: 'Lato', sans-serif;
+        font-size: 18px;
+        text-align: center;
+        margin-top: -65px;
+    }
+    
+    .ph3 {
+        font-family: 'Lato', sans-serif;
+        font-size: 18px;
+        text-align: center;
+        margin-left: 900px;
+        margin-top: -70px;
+    }
+    
+    #topbtn {
+        position: fixed;
+        bottom: 80px;
+        right: 40px;
+        font-size: 14px;
+        width: 50px;
+        height: 50px;
+        background-color: #FF4A52;
+        color: rgb(255, 255, 255);
+        border: none;
+        outline: none;
+        cursor: pointer;
+        display: none;
+        font-weight: 500;
+        opacity: 0.6;
+        transition: 0.2s linear;
+    }

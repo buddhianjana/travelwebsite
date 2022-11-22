@@ -1,0 +1,36 @@
+@import url(Font.css);
+@import url(Header2.css);
+@import url(Newsletter.css);
+@import url(Footer.css);
+.bgimg {
+    width: 100%;
+}
+
+.bghead {
+    color: rgb(0, 0, 0);
+    font-size: 157px;
+    font-family: 'Lato', sans-serif;
+    margin-top: -470px;
+    text-align: center;
+    color: white;
+}
+
+.bgdes {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.imgcol {
+    margin-top: 400px;
+    margin-left: 194px;
+}
+
+.phratxt {
+    font-family: 'Lato', sans-serif;
+    font-size: 23px;
+    font-weight: 50;
+    margin-left: 1177px;
+    margin-top: -720px;
+}

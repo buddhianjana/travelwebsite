@@ -1,0 +1,52 @@
+@import url(Font.css);
+.nlbg {
+    width: 100%;
+}
+
+.nlhead {
+    font-size: 31px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    margin-top: -230px;
+    margin-left: 200px;
+    color: white;
+}
+
+.nldes {
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;
+    margin-left: 200px;
+    color: white;
+}
+
+.Emailbox {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 550px;
+    height: 69px;
+    background-color: #ffffff;
+    padding-left: 50px;
+    margin-left: 800px;
+}
+
+.subsbttn {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 202px;
+    height: 55px;
+    background-color: #FF4A52;
+    color: white;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+.bttntxt {
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;
+}
+
+.nlform {
+    margin-top: -220px;
+}

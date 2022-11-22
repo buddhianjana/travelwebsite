@@ -1,0 +1,166 @@
+@import url(Font.css);
+@import url(Header2.css);
+@import url(Newsletter.css);
+@import url(Footer.css);
+.bgimg {
+    width: 100%;
+}
+
+.plchead {
+    color: rgb(0, 0, 0);
+    font-size: 157px;
+    font-family: 'Lato', sans-serif;
+    margin-top: -470px;
+    text-align: center;
+    color: white;
+}
+
+.plcdes {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.Ahover :hover {
+    color: red;
+}
+
+.totimg {
+    margin-top: 250px;
+    margin-left: 396px;
+}
+
+.tothead {
+    margin-top: -100px;
+    margin-left: 426px;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.totdes {
+    margin-left: 426px;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+.Sigiriyaimg {
+    margin-left: 799px;
+    margin-top: -306px;
+}
+
+.Sigiriyahead {
+    margin-left: 825px;
+    margin-top: -100px;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.Sigiriyades {
+    margin-left: 825px;
+    margin-top: -1px;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+.nrbimg {
+    margin-left: 1202px;
+    margin-top: -310px;
+}
+
+.nrbhead {
+    margin-left: 1230px;
+    margin-top: -95px;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.nrbdes {
+    margin-left: 1230px;
+    margin-top: -1px;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+.yalaimg {
+    margin-top: 100px;
+    margin-left: 396px;
+}
+
+.yalahead {
+    margin-top: -100px;
+    margin-left: 426px;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.yalades {
+    margin-left: 426px;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+.gfimg {
+    margin-left: 799px;
+    margin-top: -306px;
+}
+
+.gfhead {
+    margin-left: 825px;
+    margin-top: -100px;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.gfdes {
+    margin-left: 825px;
+    margin-top: -1px;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+.jfimg {
+    margin-left: 1202px;
+    margin-top: -310px;
+}
+
+.jfhead {
+    margin-left: 1230px;
+    margin-top: -95px;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}
+
+.jfdes {
+    margin-left: 1230px;
+    margin-top: -1px;
+    font-size: 13px;
+    font-family: 'Lato', sans-serif;
+}
+
+.sm {
+    outline: 0;
+    border: 0;
+    width: 262px;
+    height: 68px;
+    background-color: #FF4A52;
+    border-radius: 12px;
+}
+
+.smtxt {
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    cursor: pointer;
+}
+
+.smbttn {
+    margin-top: 100px;
+    margin-left: 840px;
+}

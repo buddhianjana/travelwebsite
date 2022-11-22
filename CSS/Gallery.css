@@ -1,0 +1,67 @@
+@import url(Header2.css);
+@import url(Newsletter.css);
+@import url(Font.css);
+@import url(Footer.css);
+.galhead {
+    color: rgb(0, 0, 0);
+    font-size: 157px;
+    font-family: 'Lato', sans-serif;
+    margin-top: -470px;
+    margin-left: 690px;
+    color: white;
+}
+
+.galdes {
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+    margin-left: 650px;
+    color: white;
+}
+
+.img49 {
+    margin-left: 250px;
+}
+
+.img50 {
+    margin-bottom: 320px;
+    margin-left: 20px;
+}
+
+.img51 {
+    margin-top: -380px;
+    margin-left: 1172px;
+    margin-bottom: 20px;
+}
+
+.img52 {
+    margin-left: 250px;
+}
+
+.img53 {
+    margin-left: 20px;
+}
+
+.img54 {
+    margin-left: 250px;
+}
+
+.img55 {
+    margin-bottom: 320px;
+    margin-left: 20px;
+}
+
+.img56 {
+    margin-bottom: 320px;
+    margin-left: 25px;
+}
+
+.img57 {
+    margin-left: 250px;
+    margin-top: -300px;
+    margin-bottom: 20px;
+}
+
+.img58 {
+    margin-left: 705px;
+    margin-top: -320px;
+}

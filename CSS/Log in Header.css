@@ -1,0 +1,57 @@
+/*Header*/
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header {
+    height: 90px;
+    width: 100%;
+    display: block;
+    background-color: #fbfbfb;
+}
+
+.innerheader {
+    width: 1700px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.logocontainer {
+    height: 100%;
+    display: table;
+    float: left;
+}
+
+.logocontainer h1 {
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.socialmedia {
+    float: right;
+    height: 100%;
+}
+
+.socialmedia a {
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
+
+.socialmedia a li {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+a:hover {
+    transform: scale(1.1);
+}

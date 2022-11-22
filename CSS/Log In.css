@@ -1,0 +1,259 @@
+@import url(Log\ in\ Header.css);
+@import url(Font.css);
+@import url(Imagecollage.css);
+.bg1 {
+    width: 100%;
+}
+
+
+/*divclass all*/
+
+.textt {
+    margin-top: -21%;
+    margin-left: 17%;
+}
+
+
+/*h1*/
+
+.text {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-weight: 100;
+}
+
+.text2 {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-weight: 60;
+}
+
+.form {
+    background-color: rgb(255, 255, 255);
+    border-radius: 22px;
+    height: 381px;
+    width: 550px;
+    margin-left: 60%;
+    margin-top: -19%;
+}
+
+.logintitle {
+    color: rgb(255, 255, 255);
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+    margin-left: 73.5%;
+    margin-top: 12.5%;
+}
+
+input {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 348px;
+    height: 42px;
+    margin-top: 7%;
+    margin-left: 18%;
+    background-color: white;
+    opacity: 0.9;
+    padding-left: 8%;
+}
+
+.rec {
+    background-color: #ffd900;
+    border: 1px solid;
+    border-radius: 22px;
+    height: 381px;
+    width: 550px;
+    margin-top: -15%;
+    margin-left: 61%;
+}
+
+button {
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    width: 146px;
+    height: 46px;
+    background-color: #FF4A52;
+    color: white;
+    margin-left: 18%;
+    cursor: pointer;
+}
+
+
+/*body*/
+
+.p1 {
+    text-align: center;
+}
+
+.centertext {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.map {
+    margin-left: 90px;
+}
+
+.gapt {
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.Mapall {
+    margin-left: 18%;
+}
+
+.cat1 {
+    margin-top: 20%;
+    height: 80px;
+    margin-left: 160%;
+    cursor: pointer;
+}
+
+.cat2 {
+    margin-top: 20%;
+    width: 80px;
+    height: 80px;
+    margin-left: 205%;
+    cursor: pointer;
+}
+
+.cat3 {
+    margin-top: 20%;
+    width: 80px;
+    height: 80px;
+    margin-left: 250%;
+    cursor: pointer;
+}
+
+.icon {
+    margin-top: 20px;
+    margin-left: 130%;
+    font-size: 25px;
+    font-weight: 800px;
+    width: 300px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    font-family: 'Lato', sans-serif;
+}
+
+.icon1 {
+    margin-top: 20px;
+    margin-left: 195%;
+    font-size: 25px;
+    font-weight: 800px;
+    width: 300px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    font-family: 'Lato', sans-serif;
+}
+
+.icon2 {
+    margin-top: 20px;
+    margin-left: 245%;
+    font-size: 25px;
+    font-weight: 800px;
+    width: 300px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    font-family: 'Lato', sans-serif;
+}
+
+.box {
+    width: 1190px;
+    height: 1px;
+    background-color: #B2B7C2;
+    margin-left: 19%;
+}
+
+.sen1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 19px;
+    padding-right: 180px;
+    text-align: center;
+}
+
+.sen2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 19px;
+    align-self: center;
+    text-align: center;
+}
+
+.sen3 {
+    font-family: 'Lato', sans-serif;
+    font-size: 19px;
+    padding-left: 190px;
+    text-align: center;
+}
+
+.phara1 {
+    margin-left: 21%;
+}
+
+.topic1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+/*imagecollage*/
+
+
+/*imghover*/
+
+.rec2 {
+    background-color: #FF4A52;
+    border-radius: 15px;
+    height: 68px;
+    pointer-events: auto;
+    position: relative;
+    transition: all 0.2s ease;
+    width: 262px;
+    margin-left: 830px;
+}
+
+.rec2 :hover {
+    transform: scale(0.9);
+}
+
+.smtitle {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    left: 79px;
+    letter-spacing: 0;
+    font-size: 25px;
+    font-weight: 800px;
+    line-height: 25px;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+}
+
+.alert {
+    color: #FF4A52;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: -40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    text-align: center;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: .5px;
+}

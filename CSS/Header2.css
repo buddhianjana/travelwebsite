@@ -1,0 +1,72 @@
+@import url(Font.css);
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.header {
+    height: 80px;
+    width: 100%;
+    display: block;
+    background-color: #fbfbfb;
+}
+
+.hlogort {
+    width: 265px;
+    height: 36px;
+    position: fixed;
+    margin-top: 20px;
+}
+
+.innerheader {
+    width: 1700px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.logo {
+    height: 100%;
+    display: table;
+    float: left;
+}
+
+.logo h1 {
+    color: #707070;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.pages {
+    float: right;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+}
+
+.pages a {
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    transition: 0.3s;
+}
+
+.pages a li {
+    display: table-cell;
+    color: rgb(0, 0, 0);
+    vertical-align: middle;
+}
+
+.hah:hover {
+    transform: scale(1.2);
+    background-color: #ff4a52;
+}
+
+.fa-search {
+    color: orangered;
+    font-size: 15px;
+}
